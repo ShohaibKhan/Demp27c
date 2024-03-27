@@ -3,3 +3,6 @@
 Python
 Backend Development
 Devops
+
+modified course 1
+modified course 2
